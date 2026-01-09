@@ -11,7 +11,6 @@ A simple website with theme-toggler that allows users to toggle between light an
 ## Technologies Used
 
 - HTML
-- CSS
 - JavaScript
 - React
 - Vite
